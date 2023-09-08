@@ -1,2 +1,1 @@
-0x15. C - File I/O 
-NEw PROJECT
+0x15. C - File I/O
