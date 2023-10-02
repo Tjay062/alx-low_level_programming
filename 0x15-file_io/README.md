@@ -1,4 +1,1 @@
-0x15. C - File I/O
-task1
-task2 
-
+# 0x00. C - Hello, World
